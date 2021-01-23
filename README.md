@@ -30,3 +30,13 @@ easier to get to the user's final goal ASAP(as soon as possible).
 
 
 ## Credits
+
+### Code 
+
+* A lot the steps followed to biuld the ASAP Studio website are the same as the ones taken in 
+the CI Boutique Ado walkthrough project. The code written in the project is often directly copied 
+or similar to the one from the learning content.  
+
+### Media
+
+* The main background image is downloaded from [Forbes.com](https://www.forbes.com/) 
