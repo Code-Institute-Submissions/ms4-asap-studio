@@ -22,6 +22,23 @@ easier to get to the user's final goal ASAP(as soon as possible).
 
 ## Technologies Used
 
+### Main
+
+1. HTML5
+2. CSS3
+3. JavaScript
+4. Python
+5. Django 
+
+### Additional
+
+1. Bootstrap
+   * Used to add responsive design and styling to the project.
+2. Git
+   * Used for version control by Gitpod's terminal commit to Git and push to GitHub.
+3. GitHub
+   * After being pushed from Git the project is stored in GitHub.
+
 
 ## Testing 
 
