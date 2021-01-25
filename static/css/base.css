@@ -9,12 +9,20 @@ body {
     font-family: 'Rubik';
 }
 
-.nav-style {
+.nav-bg {
     background: #f0a345;
+}
+
+.nav2-bg {
+    background: #205b61;
 }
 
 .home-content {
     justify-content: center;
+}
+
+.text-color {
+    color: #205b61;
 }
 
 .enter-button {
@@ -47,14 +55,15 @@ body {
     color: white;
 }
 
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
+.enter-button:hover,
+.enter-button:active,
+.enter-button:focus,
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
-    color: white;
+    background: #fafafa;
+    color: #205b61;
+    border: 1px solid #f0a345;
 }
 
 .text-black {
@@ -87,5 +96,12 @@ body {
 
     .header-container {
         padding-top: 164px;
+    }
+}
+
+@media (max-width: 992px) {
+    .home-content {
+        justify-content: center;
+        margin-top: 100px;
     }
 }
