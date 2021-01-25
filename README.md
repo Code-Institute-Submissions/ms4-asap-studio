@@ -38,6 +38,10 @@ easier to get to the user's final goal ASAP(as soon as possible).
    * Used for version control by Gitpod's terminal commit to Git and push to GitHub.
 3. GitHub
    * After being pushed from Git the project is stored in GitHub.
+4. Font Awesome
+   * Used to add icons to the project menues.
+5. Google Fonts
+   * Used to add font 'Rubik' to the project.
 
 
 ## Testing 
@@ -52,7 +56,7 @@ easier to get to the user's final goal ASAP(as soon as possible).
 
 * A lot the steps followed to biuld the ASAP Studio website are the same as the ones taken in 
 the CI Boutique Ado walkthrough project. The code written in the project is often directly copied 
-or similar to the one from the learning content.  
+or similar to the one from the learning content source code.  
 
 ### Media
 
