@@ -26,7 +26,7 @@ SECRET_KEY = 'vv$_t+-4lc90x_!%#mdkhbc1j1uoj$8q5yc&63u=p&_q8a_t8d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ms4-asap-studio.herokuapp.com', 'localhost']
 
 
 # Application definition
