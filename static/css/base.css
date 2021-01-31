@@ -32,6 +32,19 @@ body {
     letter-spacing: 2px;
 }
 
+/* Contacts */
+
+.social-media-links {
+    display: inline-flex;
+    list-style: none;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.social-media-links li {
+    margin: 5px;
+}
+
 /* Copied from Boutique Ado project source code */
 /* from Bulma */
 .icon {

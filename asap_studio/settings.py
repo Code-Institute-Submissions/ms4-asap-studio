@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'home',
     'about',
     'products',
+    'contact',
 
     # Social providers
     # 'allauth.socialaccount.providers.google',
